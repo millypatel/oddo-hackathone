@@ -20,8 +20,8 @@ GearGuard is an Odoo-based maintenance management system that helps track equipm
 - XML
 
 ## Team Members
-- Milly Patel(22bece30307)
-- Anjalee Shaniyara ()22bece30427
+- Milly Patel
+- Anjalee Shaniyara 
 - Devanshi Patel
 - Mahi Patel
 
