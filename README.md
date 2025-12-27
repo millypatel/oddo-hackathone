@@ -1,5 +1,5 @@
 # oddo-hackathone
-# GearGuard – Maintenance Management System (Odoo Hackathon)
+# GearGuard – Maintenance Management System
 
 ## Problem Statement
 Organizations face difficulty in managing equipment maintenance manually, leading to frequent breakdowns and operational delays.
